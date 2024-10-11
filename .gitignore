@@ -1,0 +1,5 @@
+./a.out
+package.json
+package-lock.json
+junk/
+node_modules/
